@@ -33,8 +33,8 @@ void Ret()
 }
 signed main()
 {
-    int Tes;
-    cin >> Tes;
-    while (Tes--)
+    int t;
+    cin >> t;
+    while (t--)
         Ret();
 }

@@ -15,7 +15,7 @@ cout << "p=" <<p << endl;
 cout << "*p=" << *p << endl;
 cout << "&a=" << &a << endl;
 cout << "&p=" <<&p << endl;
-int **pp = &p;  // stroing the address of a pointer 'p'  means &p=pp
+int **pp = &p;  // storing the address of a pointer 'p'  means &p=pp
 cout << "---------------"<< endl;
 cout << "*p=" << *p << endl; //value at p
 cout << "&p=" << &p << endl; //address of p
